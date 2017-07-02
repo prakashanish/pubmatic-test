@@ -1,0 +1,11 @@
+Command Line
+=============
+1. Please copy the "pubmatic-test" folder on C drive
+2. There is a batch file (launch-app.bat) created, please use the same to compile and run the application.
+3. Logs will be generated inside c:\pubmatic-test\logs\ folder
+4. The Outpuut CSV file will be generated inside c:\pubmatic-test\output\ folder
+
+Eclipse
+=============
+1. please use the launch-app.launch to run the application.
+2. log and output folder structure remains same.
